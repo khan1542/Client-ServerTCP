@@ -1,0 +1,44 @@
+E:\Projects\3 курс\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.exe
+E:\Projects\3 курс\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.deps.json
+E:\Projects\3 курс\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.json
+E:\Projects\3 курс\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.dev.json
+E:\Projects\3 курс\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.dll
+E:\Projects\3 курс\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.pdb
+E:\Projects\3 курс\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.csprojAssemblyReference.cache
+E:\Projects\3 курс\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfoInputs.cache
+E:\Projects\3 курс\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfo.cs
+E:\Projects\3 курс\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.dll
+E:\Projects\3 курс\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.pdb
+C:\Projects\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.exe
+C:\Projects\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.deps.json
+C:\Projects\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.json
+C:\Projects\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.dev.json
+C:\Projects\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.dll
+C:\Projects\SocketClient\bin\Debug\netcoreapp3.0\SocketClient.pdb
+C:\Projects\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.csprojAssemblyReference.cache
+C:\Projects\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfoInputs.cache
+C:\Projects\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfo.cs
+C:\Projects\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.dll
+C:\Projects\SocketClient\obj\Debug\netcoreapp3.0\SocketClient.pdb
+C:\Projects\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.exe
+C:\Projects\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.deps.json
+C:\Projects\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.json
+C:\Projects\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.dev.json
+C:\Projects\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.dll
+C:\Projects\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.pdb
+C:\Projects\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.csprojAssemblyReference.cache
+C:\Projects\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfoInputs.cache
+C:\Projects\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfo.cs
+C:\Projects\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.dll
+C:\Projects\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.pdb
+C:\Projects\PracticeSockets\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.exe
+C:\Projects\PracticeSockets\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.deps.json
+C:\Projects\PracticeSockets\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.json
+C:\Projects\PracticeSockets\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.runtimeconfig.dev.json
+C:\Projects\PracticeSockets\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.dll
+C:\Projects\PracticeSockets\ClientServerApp\bin\Debug\netcoreapp3.0\SocketClient.pdb
+C:\Projects\PracticeSockets\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.csprojAssemblyReference.cache
+C:\Projects\PracticeSockets\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfoInputs.cache
+C:\Projects\PracticeSockets\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.AssemblyInfo.cs
+C:\Projects\PracticeSockets\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.dll
+C:\Projects\PracticeSockets\ClientServerApp\obj\Debug\netcoreapp3.0\SocketClient.pdb
